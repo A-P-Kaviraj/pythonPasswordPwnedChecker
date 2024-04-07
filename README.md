@@ -15,7 +15,7 @@
     ```
 2. Navigate to the project directory:
     ```
-    cd pythonPasswordChecker
+    cd pythonPasswordPwnedChecker
     ```
 3. Install the required dependencies:
     ```
