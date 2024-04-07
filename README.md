@@ -1,4 +1,4 @@
-# Python Password Checker
+# Python Password Pawned Checker
 
 ## Description
 `checkmypass.py` is a Python program designed to check if passwords have been compromised in data breaches. It utilizes the Pwned Passwords API to determine if a password has been exposed in known data breaches. The program takes multiple passwords as command-line arguments and checks each one for compromise.
