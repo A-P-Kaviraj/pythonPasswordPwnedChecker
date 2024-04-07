@@ -31,11 +31,11 @@ def main(args):
     for password in args:
         count = pwned_api_check(password)
         if count:
-            print(f'password: Compromised ❌')
+            print('password: Compromised ❌')
             print(
                 f'{password} was found {count} times... you should probably change your password')
         else:
-            print(f'password:  Secure ✅')
+            print('password: Secure ✅')
             print(f'{password} was NOT found, carry on!')
     return 'done!'
 
